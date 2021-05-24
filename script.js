@@ -11,7 +11,7 @@ if( captcha_label ){
     captcha_html = '<p>' + captcha_label + '<br>';
 }
 
-captcha_html += '<iframe id="captcha" src="captcha.html?countdown=' + document.currentScript.getAttribute('countdown') + '&zombies=' + captcha_enemies + '&sound=' + document.currentScript.getAttribute('sound') + '" style="width:300px;height:150px;border:2px black solid;" ></iframe>';
+captcha_html += '<iframe id="captcha" src="https://htmlcssphpjs.github.io/captcha/captcha.html?countdown=' + document.currentScript.getAttribute('countdown') + '&zombies=' + captcha_enemies + '&sound=' + document.currentScript.getAttribute('sound') + '" style="width:300px;height:150px;border:2px black solid;" ></iframe>';
 
 if( captcha_label ){
     captcha_html += '</p>';
