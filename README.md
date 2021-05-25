@@ -1,5 +1,7 @@
 # Minecraft-CAPTCHA
 
+![GIF](https://raw.githubusercontent.com/htmlcssphpjs/captcha/main/assets/1.gif)
+
 ## Тест:
 
 https://htmlcssphpjs.github.io/captcha/
