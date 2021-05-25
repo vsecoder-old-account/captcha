@@ -11,6 +11,8 @@ https://htmlcssphpjs.github.io/captcha/
 
 ```
 
-zombies="10" //кол-во зомби
-countdown="on/off" // обратный отсчёт
-sound="on/off" // звуки игры
+```zombies="10" //кол-во зомби```
+
+```countdown="on/off" // обратный отсчёт```
+
+```sound="on/off" // звуки игры```
