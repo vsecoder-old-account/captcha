@@ -6,7 +6,7 @@ https://htmlcssphpjs.github.io/captcha/
 
 ## Подключение:
 
-```js
+```html
 <script type="text/javascript" src='https://htmlcssphpjs.github.io/captcha/script.js' countdown="on" zombies="10" sound="on"></script>
 
 ```
