@@ -4,12 +4,12 @@
 
 ## Тест:
 
-https://htmlcssphpjs.github.io/captcha/
+https://vsecoder.github.io/captcha/
 
 ## Подключение:
 
 ```html
-<script type="text/javascript" src='https://htmlcssphpjs.github.io/captcha/script.js' countdown="on" zombies="10" sound="on"></script>
+<script type="text/javascript" src='https://vsecoder.github.io/captcha/script.js' countdown="on" zombies="10" sound="on"></script>
 
 ```
 
